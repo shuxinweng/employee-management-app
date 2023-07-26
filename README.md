@@ -34,6 +34,6 @@ Made by a group of 4: Min Pan, Shuxin Weng, Ying Jie Mei, Youssef Elsuradi.
 
 **Prerequities**: installed npm
 
-**How To Use**: Go to ""
+**How To Use**: Go to "https://shuxinweng.github.io/employee-management-app/#/"
 
 
